@@ -1,0 +1,39 @@
+* {
+    margin: 0 auto;
+    padding: 0px;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #2e2e2e;
+    background-image: url(assets/background.png);
+}
+#container {
+    max-width: 800px;
+}
+#header{
+    background-color: #938e67;
+    color: white;
+    text-align: center;
+    
+}
+#header h1 {
+    padding: 5px;
+    font-size: 300%;
+    font-weight: bolder;
+}
+#header img {
+    display: block;
+    padding-top: 10px;
+}
+#content {
+    background-color: white;
+}
+#skills {
+    font-size: 120%;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+#footer {
+    background-color: #7c7c7c;
+    color: #ffffff;
+}
