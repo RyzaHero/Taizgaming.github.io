@@ -1,1 +1,6 @@
-
+  Profile Pic + 5 other pics
+  Location of cell
+  3 interests of the cell
+  5 friends
+  5 Communications
+  10 Posts
